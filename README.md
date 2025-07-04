@@ -34,29 +34,6 @@ Data scraped from the publicly available and safe-to-scrape demo e-commerce site
 
 ---
 
-## 📁 Project Structure
-
-laptop-price-trend-analysis/
-│
-├── data/
-│ ├── raw/ # Raw scraped CSV
-│ └── cleaned/ # Cleaned & transformed CSV
-│
-├── notebooks/
-│ └── analysis.ipynb # Data cleaning & EDA
-| └── scraper.py # Python scraper
-│
-├── powerbi/
-│ └── dashboard.pbix # Power BI interactive dashboard
-│
-├── docs/
-│ └── visuals/ # Charts and screenshots
-│
-└── README.md # Project documentation
-
-
----
-
 ## 📥 Installation & Setup
 
 Follow the steps below to set up and run this project on your local machine.
