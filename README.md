@@ -108,8 +108,8 @@ Includes:
 - Slicers for interactive filtering  
 - Category-wise summary matrix
 
-## Author
+## 👤 Author
 Suman Kumar Sahu
--📧 sumankumarsahu7900@gmail.com
--🔗 Linkedin: https://www.linkedin.com/in/suman- sahu-78b601219/
--🔗 GitHub: https://github.com/sahusuman9
+- 📧 sumankumarsahu7900@gmail.com
+- 🔗 Linkedin: https://www.linkedin.com/in/suman- sahu-78b601219/
+- 🔗 GitHub: https://github.com/sahusuman9
