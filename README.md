@@ -49,37 +49,17 @@ cd laptop-price-trend-analysis
 
 ---
 
-### 📦 2. Install Dependencies
+### 🌐 2. Run the Web Scraper
 
-Create a virtual environment (optional but recommended):
-
-```bash
-python -m venv venv
-source venv/bin/activate  # for Linux/macOS
-venv\Scripts\activate     # for Windows
-```
-
-Install required Python libraries:
+Open the Jupyter Notebook and scrap the data:
 
 ```bash
-pip install -r requirements.txt
+jupyter notebook notebooks/scraper.ipynb
 ```
 
 ---
 
-### 🌐 3. Run the Web Scraper
-
-This script scrapes laptop data from the e-commerce test site and saves it as a CSV.
-
-```bash
-python scripts/scraper.py
-```
-
-- Output: `data/raw/laptop_data.csv`
-
----
-
-### 🧼 4. Clean & Transform the Data
+### 🧼 3. Clean & Transform the Data
 
 Open the Jupyter Notebook and follow the preprocessing steps:
 
@@ -94,7 +74,7 @@ This includes:
 
 ---
 
-### 📊 5. Explore Power BI Dashboard
+### 📊 4. Explore Power BI Dashboard
 
 Use the cleaned dataset to explore the insights visually.
 
